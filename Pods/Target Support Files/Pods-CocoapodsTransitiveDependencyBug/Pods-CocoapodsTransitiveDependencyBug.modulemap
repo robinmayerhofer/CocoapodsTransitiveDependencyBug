@@ -1,0 +1,6 @@
+framework module Pods_CocoapodsTransitiveDependencyBug {
+  umbrella header "Pods-CocoapodsTransitiveDependencyBug-umbrella.h"
+
+  export *
+  module * { export * }
+}

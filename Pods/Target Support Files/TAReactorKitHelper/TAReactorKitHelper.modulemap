@@ -1,0 +1,6 @@
+framework module TAReactorKitHelper {
+  umbrella header "TAReactorKitHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
